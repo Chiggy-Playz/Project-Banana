@@ -1,0 +1,1 @@
+"mariadb-10.6.5/bin/mysqld.exe" --no-defaults --console

@@ -25,3 +25,4 @@ def setup_tables(cursor):
     """
 
     cursor.execute(COMPUTERS_TABLE)
+    cursor.execute(SOFTWARES_TABLE)

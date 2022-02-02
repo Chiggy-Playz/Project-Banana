@@ -16,7 +16,7 @@ def cls():
 db = connect(
     host="localhost",
     user="root",
-    password="1234",
+    password="",
 )
 
 cursor = db.cursor()
